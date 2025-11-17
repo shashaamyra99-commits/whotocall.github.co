@@ -1,3 +1,4 @@
+[PHONE CALL BOOTH.html](https://github.com/user-attachments/files/23589936/PHONE.CALL.BOOTH.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -162,7 +163,11 @@ h1{margin:6px 0 0 0;font-size:30px;text-align:left}
 @media (max-width:480px){
   .scene{padding:16px}
   h1{font-size:24px}
-  .sign{font-size:18px}
+  .sign{font-size:18px}[audio4.mp3](https://github.com/user-attachments/files/23589954/audio4.mp3)
+[audio3.mp3](https://github.com/user-attachments/files/23589949/audio3.mp3)
+[audio2.mp3](https://github.com/user-attachments/files/23589945/audio2.mp3)
+[audio1.mp3](https://github.com/user-attachments/files/23589937/audio1.mp3)
+
   #welcomeScreen h1{font-size:24px;}
   #welcomeScreen button{font-size:18px; padding:12px 18px;}
 }
